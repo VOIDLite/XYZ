@@ -54,29 +54,29 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname ="GAMER-BOT" //namabot kalian
+global.ownername = "DIMAS ZULKHAIRI" //nama kalian
+global.myweb = "https://YANDEX.COM" //bebas asal jan hapus
+global.youtube = "https://youtube.com/" //bebas asal jan hapus
+global.myweb2 = "https://yandex.com" //bebas
+global.email = "voidlite121@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Makassar' //  timezone wib
+global.timezone = 'Asia/jakarta' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.badword_list = ["asu", "anjir", "kon", "kontol", "mem", "memek"] //tambahin sendiri kata² nya, gunakan huruf kecil
+global.premium = ['6283116847160'] //premium user
+global.owner = ["6283116847160"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
-global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
+global.thumbnail = "./haruka.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./haruka.jpg" // foto donasi di folder image
+global.tag_owner = "./haruka.jpg" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
+global.background_welcome = "https://telegra.ph/Bot-WA-08-07" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = 'https://telegra.ph/Bot-WA-08-07'
 global.packname = '© ' + botname //sticker wm ubah
 global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
+global.push_kontak_delay = 0 //5 detik, 1000 = 1 detik
 //type menu for menu
 global.typemenu = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
@@ -84,16 +84,16 @@ global.typemenu2 = 'image' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
-   free: 100
+   free: 10000
 }
 global.buttonDefault = [{
    urlButton: {
-      displayText: 'Youtube Channel',
+      displayText: 'Youtube',
       url: youtube
    }
 }, {
    urlButton: {
-      displayText: 'Website',
+      displayText: 'Website yandex',
       url: myweb
    }
 }, {
@@ -114,7 +114,7 @@ global.buttonDefault = [{
 }]
 global.buttonDefault2 = [{
    urlButton: {
-      displayText: 'Youtube Channel',
+      displayText: 'Youtube',
       url: youtube
    }
 }, {
@@ -297,7 +297,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
+   sukses: 'Oke. dah di selesaikan.',
    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
