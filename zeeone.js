@@ -22,4 +22,3 @@ function start() {
          if (code == null || code == '.' || code == 1) start()
       })
 }
-start()
